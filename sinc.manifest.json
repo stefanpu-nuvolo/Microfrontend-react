@@ -1,0 +1,41 @@
+{
+  "tables": {
+    "sys_ui_page": {
+      "records": {
+        "microfrontend_react": {
+          "files": [
+            {
+              "name": "client_script",
+              "type": "js"
+            },
+            {
+              "name": "html",
+              "type": "xml"
+            },
+            {
+              "name": "processing_script",
+              "type": "js"
+            }
+          ],
+          "name": "microfrontend_react",
+          "sys_id": "e2773dbadb18d810ac32ec51ca961985"
+        }
+      }
+    },
+    "sys_ui_script": {
+      "records": {
+        "x_nuvo_microfront.microfrontend_react": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "x_nuvo_microfront.microfrontend_react",
+          "sys_id": "4328f9fadb18d810ac32ec51ca9619e8"
+        }
+      }
+    }
+  },
+  "scope": "x_nuvo_microfront"
+}
